@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://boybird.github.com/blog/sitemap.xml
